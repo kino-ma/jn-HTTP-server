@@ -8,7 +8,7 @@ usage:
 go run main.go
 ```
 
-# request
+request:
 ```
 curl 'localhost:8000'
 ```
